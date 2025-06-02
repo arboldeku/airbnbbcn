@@ -20,7 +20,7 @@ El objetivo principal es entender la evolución del precio medio por noche y los
 
   ## ⚠️ Notas adicionales
 
-- Los datos provienen de fuentes abiertas y públicas sobre listados de Airbnb en Barcelona durante el año 2021.
+- Los datos provienen de fuentes abiertas y públicas sobre listados de Airbnb en Barcelona durante el año 2021. Debido al elevado tamaño de los datos, no se han podido adjuntar a este repositorio.
 - Este análisis es descriptivo y no incluye predicciones o modelos causales.
 
 ## ✍️ Autor
