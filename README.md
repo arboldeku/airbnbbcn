@@ -1,6 +1,6 @@
-# 🛏️ Airbnb en Barcelona: Dinámicas post-COVID y efecto de las regulaciones en 2021
+# 🛏️ Airbnb en Barcelona: Dinámicas desde 2009 hasta la época post-COVID y efecto de las regulaciones en 2021
 
-Este análisis profundiza en el comportamiento del mercado de alquileres de corta duración en Barcelona durante 2021, un año marcado por las restricciones de la pandemia y un aumento de la presión regulatoria sobre plataformas como Airbnb.
+Este análisis profundiza en el comportamiento del mercado de alquileres de corta duración en Barcelona durante el periodo comoprendido entre 2009 y 2023, un prtiodo marcado por las restricciones, la crisis, la pandemia y un aumento de la presión regulatoria sobre plataformas como Airbnb.
 
 El objetivo principal es entender la evolución del precio medio por noche y los patrones de actividad de los anfitriones, con especial énfasis en la retención y el valor a lo largo del tiempo.
 
